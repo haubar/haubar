@@ -6,10 +6,10 @@
 ![profile views](https://komarev.com/ghpvc/?username=haubar&color=blueviolet)
 
 
-[![Haubar's github stats](https://github-readme-stats.vercel.app/api?username=haubar&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Haubar's github stats](https://github-readme-stats.vercel.app/api?username=haubar&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haubar&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haubar&layout=compact&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
