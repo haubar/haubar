@@ -6,14 +6,14 @@
 ![profile views](https://komarev.com/ghpvc/?username=haubar&color=blueviolet)
 
 
-![Haubar's github stats](https://github-profile-summary-cards.vercel.app/stats?username=haubar&theme=react&show_icons=true)
 
 ![Chat](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haubar&theme=nord_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haubar&theme=nord_dark&show_icons=true)
+![Haubar's github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haubar&theme=nord_dark&show_icons=true)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haubar&theme=nord_dark)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haubar&theme=nord_dark)
 
 <!--
