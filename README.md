@@ -8,16 +8,11 @@
 
 [![Haubar's github stats](https://github-readme-stats.vercel.app/api?username=haubar&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Chat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haubar&theme=react&show_icons=true)
-
-<!--
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=haubar&layout=compact&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
--->
+![Chat](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haubar&theme=github_dark)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haubar&theme=react&show_icons=true)
 
-
-![Most Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haubar&theme=react)
+![Most Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haubar&theme=github_dark)
 
 
 
