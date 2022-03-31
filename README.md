@@ -8,7 +8,7 @@
 
 [![Haubar's github stats](https://github-readme-stats.vercel.app/api?username=haubar&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Chat](https://github-readme-stats.vercel.app/api/cards/profile-details?username=haubar&theme=react&show_icons=true)]
+![Chat](https://github-readme-stats.vercel.app/api/cards/profile-details?username=haubar&theme=react&show_icons=true)
 
 <!--
 [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=haubar&layout=compact&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
