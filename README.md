@@ -6,15 +6,15 @@
 ![profile views](https://komarev.com/ghpvc/?username=haubar&color=blueviolet)
 
 
-[![Haubar's github stats](https://github-readme-stats.vercel.app/api?username=haubar&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Haubar's github stats](https://github-profile-summary-cards.vercel.app/stats?username=haubar&theme=react&show_icons=true)
 
 ![Chat](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haubar&theme=nord_dark)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haubar&theme=nord_dark&show_icons=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haubar&theme=nord_dark&show_icons=true)
 
-![Most Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haubar&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haubar&theme=nord_dark)
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haubar&theme=nord_dark)
 
 <!--
 **haubar/haubar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
